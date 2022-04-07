@@ -1,4 +1,4 @@
-# NSE-Option-Chain-Analysis
+# NSE Options Chain Data Analysis (Single Day)
 The National Stock Exchnage of India publishes Options and Futures data for a range of securities and the NIFTY index across different expiry dates. 
 The aim of this analysis document is to make use of R-Studio to study the movement of different variables published as part of the dataset for a given expiry date
 and deduce potential relationships between those variables. 
