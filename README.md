@@ -25,4 +25,6 @@ Following are the 10 points of analysis that have been conducted:
 **Note (1):** The codes have been creating in mind, keeping in mind that the data has been collected for a single-day as part of the wider time series and thus fits 
 the scope of being deemed as a cross-sectional analysis across different stirke prices.
 
-**Note (2):** A list of all variables is provided as part of the code. Additionally, I have also attached an example of a clean dataset that is analysed in .csv format.  
+**Note (2):** A list of all variables is provided as part of the code. Additionally, I have also attached an example of a clean dataset that is analysed in .csv format. 
+
+**Link for Data:** https://www.nseindia.com/option-chain
